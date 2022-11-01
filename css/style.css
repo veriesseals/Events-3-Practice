@@ -1,0 +1,26 @@
+* {
+    outline: 1px dotted red;
+}
+
+header{
+    color: whitesmoke;
+}
+
+body{
+    background-color: rgb(56, 56, 56);
+}
+
+#submitBtn {
+
+    color: black;
+    background-color: whitesmoke;
+    width: 100px;
+}
+
+form{
+    color: whitesmoke;
+}
+ 
+p {
+    color: black;
+}
