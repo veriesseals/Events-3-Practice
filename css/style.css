@@ -10,6 +10,10 @@ body{
     background-color: rgb(56, 56, 56);
 }
 
+#showGenre{
+    text-transform: uppercase;
+}
+
 #submitBtn {
 
     color: black;
